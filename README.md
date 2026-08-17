@@ -1,15 +1,39 @@
-Welcome to your new dbt project!
+# 👋 Hi, I'm Mohammad Danish  
+### Senior Data Engineer | Snowflake • dbt • SQL • StreamSets  
+📍 Oslo, Norway  
 
-### Using the starter project
+I’m a Data Engineer with 6+ years of experience building scalable data pipelines, modern ELT frameworks, and banking analytics solutions. I work mainly with Snowflake, dbt, SQL, Teradata, StreamSets, and Python.
 
-Try running the following commands:
-- dbt run
-- dbt test
+My GitHub includes practical data engineering projects, including dbt pipelines, transformation models, and analytics-ready datasets.
+
+---
+
+## 🔧 Skills
+- Snowflake, dbt, SQL, Teradata  
+- StreamSets, Airflow, DataStage  
+- Python (beginner), Git & GitHub  
+- AML, Regulatory Reporting, Banking Data  
+
+---
+
+## 📂 Featured Project
+### **Bitcoin Transaction Analytics (dbt)**
+A production-style dbt project transforming raw Bitcoin data into analytics-ready models with incremental logic, snapshots, tests, and alerting views.
+
+---
+
+## 💼 Experience
+- **Infosys (DNB Bank, Norway)** – Snowflake/dbt pipelines, AML & regulatory reporting, Teradata → Snowflake migration  
+- **Infosys (DNB Bank, India)** – DataStage ETL, Teradata SQL, Sbanken merger migration  
+
+---
+
+## 🎓 Education
+- MCA - Master of Computer Applications
+- BCA - Bachelor of Computer Applications
 
 
-### Resources:
-- Learn more about dbt [in the docs](https://docs.getdbt.com/docs/introduction)
-- Check out [Discourse](https://discourse.getdbt.com/) for commonly asked questions and answers
-- Join the [dbt community](https://getdbt.com/community) to learn from other analytics engineers
-- Find [dbt events](https://events.getdbt.com) near you
-- Check out [the blog](https://blog.getdbt.com/) for the latest news on dbt's development and best practices
+---
+
+## 📫 Connect
+[LinkedIn](https://www.linkedin.com/in/mohammad-danish-08b154171/)
